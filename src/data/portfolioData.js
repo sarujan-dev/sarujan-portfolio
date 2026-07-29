@@ -18,14 +18,14 @@ export const projects = [
     techStack: ["PHP", "Laravel", "MySQL", "Google Maps API", "Groq AI", "Blade"],
     repoNote: "Private Repository (Access available upon request)"
   },
-  {
+ /* {
     id: 2,
     title: "Mobility Health Care System",
     tagline: "Role-based healthcare access & emergency specialist ranking engine",
     description: "Architected and developed a full-stack, role-based healthcare web platform designed to connect patients directly with verified VP and VOG doctors while accelerating access during obstetric emergencies. Features an Emergency VOG Finder utilizing the Haversine distance formula at the SQL query level for real-time GPS specialist ranking, SLMC credential verification, and QR-code clinic check-ins.",
     techStack: ["Laravel 11", "PHP 8.2", "MySQL", "Tailwind CSS", "Leaflet Maps", "Blade"],
     repoNote: "Private Repository (Access available upon request)"
-  },
+  },*/
   {
     id: 3,
     title: "Personal Developer Portfolio",
