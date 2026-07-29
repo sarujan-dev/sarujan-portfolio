@@ -11,7 +11,7 @@ export default function Footer() {
         <div className="flex flex-col md:flex-row justify-between items-center gap-6">
           <div className="text-center md:text-left">
             <a href="#" className="text-2xl font-black tracking-wider text-slate-900">
-              SARUJAN<span className="text-cyan-600">.DEV</span>
+              SARUJAN
             </a>
             <p className="text-gray-500 text-sm mt-2 font-medium">
               Full Stack Developer & IT Undergraduate
