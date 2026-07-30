@@ -30,7 +30,7 @@ export const projects = [
     id: 3,
     title: "Personal Developer Portfolio",
     tagline: "Modern, responsive portfolio built with React & Tailwind CSS",
-    description: "Designed and developed a highly responsive, dark-themed personal portfolio to showcase my full-stack projects and technical skills. Built with a modular component architecture, featuring a modern UI, responsive grid layouts, and dynamic data rendering.",
+    description: "Designed and developed a highly responsive, light-themed personal portfolio to showcase my full-stack projects and technical skills. Built with a modular component architecture, featuring a modern UI, responsive grid layouts, and dynamic data rendering.",
     techStack: ["React", "Vite", "Tailwind CSS", "JavaScript"],
     repoNote: "Public Repository (Available on GitHub)"
   }
